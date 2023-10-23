@@ -15,7 +15,7 @@ public class Currency {
     {
         this.name = "";
         this.exchangeRate = 0.0;
-        this.amount =0;
+        this.amount = 0;
     }
 
     public String getName() {

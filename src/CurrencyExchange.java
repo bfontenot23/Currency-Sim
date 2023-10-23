@@ -3,6 +3,7 @@ public class CurrencyExchange {
     static final double DOLLARS_TO_CREDITS = 53.4;
     static final double BLEGHTHERS_TO_CREDITS = 2.7;
     static final double SMORGOS_TO_CREDITS = 1276.32;
+
     public static void main(String[] args)
     {
         Currency dollars,bleghthers,smorgos;
